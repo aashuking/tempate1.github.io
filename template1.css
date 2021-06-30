@@ -1,0 +1,30 @@
+*{
+    padding:0;
+    margin:0;
+}
+.start{
+    width:100%;
+    height:100vh;
+    background-image:url("img/texture-318907_1920.jpg"), url("img/xps-1gLdTsX3_70-unsplash.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    
+    
+}
+a{
+    color:white;
+}
+a:hover{
+    text-decoration:none;
+    color:azure;
+}
+.navbar{
+    z-index: 999;
+}
+.jumbotron{
+    border-radius: 10px;
+}
+ #nav1{
+    font-size: xx-large;
+    
+}
